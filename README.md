@@ -1,0 +1,1 @@
+# Kominkin.global.h
